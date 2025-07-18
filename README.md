@@ -1,6 +1,10 @@
 # Next-Word-Prediction-using-LSTM-RNN
 This project is a Next Word Prediction web application built using TensorFlow, LSTM (RNN), and Streamlit. It allows users to input partial phrases and get predictions for the next most likely word based on a custom-trained model.
 
+# Model File:
+
+Because of Large Size of Model -> You can Find the Model File at https://drive.google.com/drive/folders/13ASX_i3pRg0sIJcNWBV2OwKQq9RKJc6s
+
 # Features
 
 Trained on custom text data using Keras Tokenizer and LSTM
