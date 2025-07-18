@@ -57,9 +57,9 @@ streamlit run app.py
 
 # Project Structure
 
-├── app.py                  # Streamlit frontend
-├── tokenizer.pkl           # Saved tokenizer
-├── next_word_model.h5      # Trained LSTM model
-├── max_len.txt             # Max sequence length for padding
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
+app.py            # Streamlit frontend
+tokenizer.pkl      # Saved tokenizer
+next_word_model.h5    # Trained LSTM model
+max_len.txt      # Max sequence length for padding
+requirements.txt   # Dependencies
+README.md    # Project documentation
